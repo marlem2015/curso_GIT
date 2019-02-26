@@ -1,6 +1,6 @@
 <?php
 /** O nome do banco de dados*/
-define('DB_NAME', 'a4apostil_a4apostilas');
+define('DB_NAME', '');
 /** Usuário do banco de dados MySQL */
 define('DB_USER', 'root');
 /** Senha do banco de dados MySQL */
@@ -13,7 +13,7 @@ if ( !defined('ABSPATH') )
 	
 /** caminho no server para o sistema **/
 if ( !defined('BASEURL') )
-	define('BASEURL', '/a4apostilas/loja/admin/crud/');
+	define('BASEURL', '/admin/crud/');
 	
 /** caminho do arquivo de banco de dados **/
 if ( !defined('DBAPI') )
