@@ -1,1 +1,8 @@
-meu primeiro arquivo em php
+<?php
+
+	// requires
+
+	// funções
+
+
+?>
